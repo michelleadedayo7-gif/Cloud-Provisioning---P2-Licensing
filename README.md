@@ -12,17 +12,19 @@ P2 license in Entra ID.<br />
 <h2>Assigned Licenses</h2>
 <p>
 <img width="1404" height="709" alt="image"
-src="https://github.com/user-attachments/assets/b56dd5be-9d99-455c-971b-87b868587458" />
+src="https://github.com/user-attachments/assets/424c3fdc-85d6-49db-a4d6-3b7d43f3237c" />
+ />
 </p>
 <p>
-Assigned P2 license to user Chris Walker.
+Assigned P2 license to user Clark Rimm.
 </p>
 <br />
 <p>
 <img width="1441" height="735" alt="image"
-src="https://github.com/user-attachments/assets/39cc0299-8264-4329-abe8-4323398beba4" />
+src="https://github.com/user-attachments/assets/2b7c95e4-43d9-41cb-bb3e-c721ea44fafd" />
+ />
 </p>
 <p>
-Assigned P2 license to user Jordan Lee.
+Assigned P2 license to user John Lee.
 </p>
 <br />
